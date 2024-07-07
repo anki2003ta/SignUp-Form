@@ -12,7 +12,7 @@
   <h4>VCS</h4>
   <li>Git</li>
   <h4>APIs</h4>
-  <li>RESTFull API</li>
+  <li>RESTFul API</li>
   <h4>DataBase</h4>
   <li>Non-Relational Database- MongoDB</li>
   <h4>BackEnd FrameWork</h4>
